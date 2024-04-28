@@ -1,0 +1,51 @@
+Chakrawarti, Rajesh Kumar1 (AUTHOR) rajesh_kr_chakra@yahoo.com
+Bansal, Jayshri2 (AUTHOR)
+Bansal, Pratosh3
+
+2022
+
+Machine translation model for effective translation of Hindi poetries into English.
+
+
+The Word Sense Disambiguation (WSD) is a process of disambiguating the sense of the text according to its context. Machine translation is one of the challenging task since it requires effective representation of the text to capture semantic relation between Hindi lyrics in English normal language behaviour. This paper focuses on WSD methods to deal with dialects that convert Hindi lyrics to English in its syntactic structure of the words. WSD is a phenomenon for disambiguating the text so that machine would be capable to deduce correct sense of individual given words. WSD is critical for solving natural language tasks such as Machine Translation (MT) and speech processing. The distinguishing proof of significant words in Hindi as the language is not as simple as that of dialects in English. The interpretations of sonnets through the machines are exceptionally essential and deliberate about mind-blowing events. The interpretation of English ballads into other local dialects can turn out to be very straightforward, however, vice-versa is troublesome. This is due to the assortment of structures, classes, and feelings of the local dialects. Various endeavours have been connected far and wide towards the programmed interpretation of ballads from local dialects into English. In this paper, we propose a half breed MT (HBMT) procedure driven by the standard based MT together with measurements based on statistical machine translation (SMT) and rule-based machine translation (RBMT) for WSD in natural script Hindi in English Lyrics. This proposed method improves the semantic and syntactic accuracy of a machine interpretation framework. Finally, the proposed approach result is compared with the machine translation methods such a Google and Microsoft Bing Babylonian and HMT translators provided achieves a better outcome compared to the existing standards.
+
+
+Application research of artificial intelligence English audio translation system based on fuzzy algorithm.
+Authors:
+Guo, Erying
+
+2021
+
+With the development of globalization, people’s demand for English audio interaction is increasing. In order to overcome the shortcomings of traditional translation methods in grammatical variables, such as semantic ambiguity, quantifier errors, low translation accuracy, improve the quality and speed of English translation, and get more accurate and speed guaranteed translation, this study proposes an artificial intelligence English audio translation cross language system based on fuzzy algorithm. In this experiment, the collected analog speech signal is converted into a digital speech signal, and then, the speech features are modeled and digitized, and the whole set of speech samples are integrated and modified to eliminate the interference caused by noise as far as possible. After that, the collected voice will be stored in the text format, and then the text will be translated to achieve English audio translation. The DNN-HMM speech recognition model and the traditional GMM-HMM speech recognition model are used to preprocess the original corpus, and the accuracy of the corpus processing is compared. After that, the accuracy and utilization of the fuzzy algorithm are evaluated between the first type TSK and the second type TSK. For speech synthesis in which the corpus lacks language, it is meaningful to explore the least amount of training data for the synthesis of acceptable speech. The experimental results show that the accuracy of the fuzzy algorithm is about 97.34%, and the utilization rate is about 98.14%. The accuracy rate of type 1 and type 2 algorithms are about 85.77% and 76.87% respectively, and the utilization rate is about 83.25% and 78.63% respectively. The fuzzy algorithm based artificial intelligence English audio translation cross language system is obviously better than the other two algorithms.
+
+A hybrid discriminant fuzzy DNN with enhanced modularity bat algorithm for speech recognition.
+Authors:
+Venkata Lakshmi, S.1 (AUTHOR) venkatalakshmis12345@gmail.com
+Sujatha, K.2 (AUTHOR)
+Janet, J.
+
+2023
+
+In recent years, speech processing resides a major application in the domain of signal processing. Due to the audibility loss of some speech signals, people with hearing impairment have difficulty in understanding speech, which reintroduces a crucial role in speech recognition. Automatic Speech Recognition (ASR) development is a major challenge in research in the case of noise, domain, vocabulary size, and language and speaker variability. Speech recognition system design needs careful attention to challenges or issues like performance and database evaluation, feature extraction methods, speech representations and speech classes. In this paper, HDF-DNN model has been proposed with the hybridization of discriminant fuzzy function and deep neural network for speech recognition. Initially, the speech signals are pre-processed to eliminate the unwanted noise and the features are extracted using Mel Frequency Cepstral Coefficient (MFCC). A hybrid Deep Neural Network and Discriminant Fuzzy Logic is used for assisting hearing-impaired listeners with enhanced speech intelligibility. Both DNN and DF have some problems with parameters to address this problem, Enhanced Modularity function-based Bat Algorithm (EMBA) is used as a powerful optimization tool. The experimental results show that the proposed automatic speech recognition-based hybrid deep learning model is effectively-identifies speech recognition more than the MFCC-CNN, CSVM and Deep auto encoder techniques. The proposed method improves the overall accuracy of 8.31%, 9.71% and 10.25% better than, MFCC-CNN, CSVM and Deep auto encoder respectively.
+
+
+Towards improving speech recognition model with post-processing spell correction using BERT.
+Authors:
+Shunmuga Priya, M.C.1 (AUTHOR) shunmugapriya.mc@gmail.com
+Karthika Renuka, D.1 (AUTHOR)
+Ashok Kumar, L.
+
+2022
+
+Speech recognition has now become ubiquitous and plays an inevitable role in almost all sectors. Numerous works have been proposed on speech recognition; however, more accurate transcriptions are not possible. Exploration of various studies related to spell correction implies that several kinds of research have been carried out in this field but still it is a very challenging problem. This led to the need for a new spell corrector framework capable of leveraging the performance of the automatic speech recognition (ASR) system. The proposed work unveils state-of-the-art Bidirectional Encoder Representations from Transformers (BERT) based spell correction module developed on top of the deep recurrent neural network (RNN) based ASR system. The impact of BERT-based spell correction on the ASR system is evaluated on three different accent datasets in the perspective of word error rate (WER), character error rate (CER), and Bilingual evaluation understudy (BLEU) score. The experimental results inferred that the enhanced spell correction module is efficacious in detecting and correcting spell errors, by achieving the WER of 5.025% on librispeech corpus, 6.35% on voxforge, and 7.05% on NPTEL corpus.
+
+Automatic Speech Recognition Using Limited Vocabulary: A Survey.
+Authors:
+Fendji, Jean Louis K. E.1 lfendji@gmail.com
+Tala, Diane C. M.2
+Yenke, Blaise O.1
+Atemkeng, Marcellin
+
+2020
+
+Automatic Speech Recognition (ASR) is an active field of research due to its large number of applications and the proliferation of interfaces or computing devices that can support speech processing. However, the bulk of applications are based on well-resourced languages that overshadow under-resourced ones. Yet, ASR represents an undeniable means to promote such languages, especially when designing human-to-human or human-to-machine systems involving illiterate people. An approach to design an ASR system targeting under-resourced languages is to start with a limited vocabulary. ASR using a limited vocabulary is a subset of the speech recognition problem that focuses on the recognition of a small number of words or sentences. This paper aims to provide a comprehensive view of mechanisms behind ASR systems as well as techniques, tools, projects, recent contributions, and possible future directions in ASR using a limited vocabulary. This work consequently provides a way forward when designing an ASR system using limited vocabulary. Although an emphasis is put on limited vocabulary, most of the tools and techniques reported in this survey can be applied to ASR systems in general.
